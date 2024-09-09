@@ -22,7 +22,7 @@ public class ContaTerminal {
         saldo = scan.nextDouble();
 
    
-        System.out.println("OBTEMOS OS SEGUINTES DADOS: ");
+        System.out.println("OBTEMOS OS SEGUINTES DADOS DA CONTA: ");
         System.out.println(" ");
         System.out.println("nome da Cliente: "+nomeCliente);
         System.out.println("numero da conta: "+numeroConta);
